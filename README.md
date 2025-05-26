@@ -1,1 +1,1 @@
-# Eid-zakat
+# eidjakat
